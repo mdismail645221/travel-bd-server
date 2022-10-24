@@ -1,0 +1,34 @@
+[
+    {
+        "id" :1,
+        "image" : "https://i.ibb.co/4PGc7Jm/Sajek.png",
+        "description" : "Cox's Bazar (/ˌkɒksɪz bəˈzɑː/; Bengali: কক্সবাজার, romanized: Kôksbajar; pronounced [kɔksbadʒaɾ]) is a city, fishing port, tourism centre, and district headquarters in south eastern near Chattogram Bangladesh. It is located 150 km (93 mi) south of the city of Chittagong. Cox's Bazar is also known by the name Panowa, which translates literally as . Another old name was .The city covers an area of 23.4 km2 (9.0 sq mi) with 27 mahallas and 9 wards and as of 2011 had a population of 265,500.[1] Cox's Bazar is connected by road and air with Chittagong.[2][3] a Superintendent of Palongkee outpost. To commemorate his role in refugee rehabilitation work, a market was established and named after him.",
+        "name" : "Sajek",
+        "others_info": {
+        "origin": "ABC",
+        "from": "Sajek"
+      }
+
+    },
+    {
+        "id" : 2,
+        "image" : "https://i.ibb.co/wWtmXzS/Sreemongol.png",
+        "name" : "Sreemongol",
+        "description": "Sreemangal (Bengali: শ্রীমঙ্গল, romanized: Srimongol) is an upazila of Moulvibazar District[1] in the Sylhet Division of Bangladesh. It is located at the southwest of the district, and borders the Habiganj District to the west and the Indian state of Tripura to the south. Sreemangal is often referred to as the 'tea capital' of Bangladesh, and is most famous for its tea fields. Other than tea, the rubber, pineapple, wood, betel, and lemon industries also exist in the upazila.[2]",
+        "others_info": {
+        "origin": "Shylet",
+        "from": "Sreemongol"
+      }
+    },
+    {
+        "id" : 3,
+        "image" : "https://i.ibb.co/0yspcFf/sundorbon.png",
+        "name" : "Sundorbon",
+        "description": "সুন্দরবন হলো বঙ্গোপসাগর উপকূলবর্তী অঞ্চলে অবস্থিত একটি প্রশস্ত বনভূমি যা বিশ্বের প্রাকৃতিক বিস্ময়াবলির অন্যতম। পদ্মা, মেঘনা ও ব্রহ্মপুত্র নদীত্রয়ের অববাহিকার বদ্বীপ এলাকায় অবস্থিত এই অপরূপ বনভূমি বাংলাদেশের খুলনা, সাতক্ষীরা, বাগেরহাট, পটুয়াখালী ও বরগুনা জেলা এবং ভারতের পশ্চিমবঙ্গ রাজ্যের দুই জেলা উত্তর চব্বিশ পরগনা ও দক্ষিণ চব্বিশ পরগনা জুড়ে বিস্তৃত।[২] সমুদ্র উপকূলবর্তী নোনা পরিবেশের সবচেয়ে বড় ম্যানগ্রোভ বন হিসেবে সুন্দরবন বিশ্বের সর্ববৃহৎ অখণ্ড বনভূমি।[৩] ১০,০০০ বর্গ কিলোমিটার জুড়ে গড়ে ওঠা সুন্দরবনের ৬,০১৭ বর্গ কিলোমিটার (৬২%)[৪] রয়েছে বাংলাদেশে[৫] এবং বাকি অংশ (৩৮%) রয়েছে ভারতের মধ্যে।",
+         "others_info": {
+        "origin": "Khulna",
+        "from": "Sundorbon"
+      }
+    }
+
+]
